@@ -37,6 +37,3 @@ The goal is to build a predictive model that classifies whether a patient is at 
 - Pandas, NumPy  
 - Scikit-learn  
 - Matplotlib, Seaborn  
-
-
-## 📁 Project Structure
